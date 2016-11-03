@@ -1531,7 +1531,7 @@ h2 .small, .h2 small,
 h3 small,
 h3 .small, .h3 small,
 .h3 .small {
-  font-size: 65%;
+  font-size: 10%;
 }
 
 h4, .h4,
@@ -1561,7 +1561,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 24px;
+  font-size: 15px;
 }
 
 h4, .h4 {
@@ -7369,7 +7369,7 @@ p {
   bottom: 0;
   width: 100%;
   z-index: 2;
-  background: rgba(68, 218, 130, 0.9);
+  background: rgb(240,170,38); opacity: 0.8;
 }
 
 #fh5co-header,
@@ -7387,10 +7387,10 @@ p {
   width: 100%;
   display: table-cell;
   vertical-align: middle;
-  color: #fff;
+  color: #4B5F6D;
 }
 .fh5co-intro-wrap .fh5co-intro .fh5co-intro-lead {
-  color: white;
+  color: #4B5F6D;
   line-height: 93px;
   font-size: 72px;
   font-weight: 700 !important;
@@ -7454,7 +7454,7 @@ p {
   padding-bottom: 10px;
   margin-bottom: 1.5em;
   text-transform: uppercase;
-  color: #000;
+  color: #4B5F6D;
 }
 .fh5co-section-heading .fh5co-border {
   display: block;
